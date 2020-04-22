@@ -3,8 +3,8 @@
 
 Here is where you will put information about your project.
 
-Background:
+## Background:
 
-Main question:
+## Main question:
 
-Data: 
+## Data: 
